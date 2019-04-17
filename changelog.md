@@ -33,5 +33,6 @@
  ## [0.0.6] – 2019-04-16
 ### Added
  - Shawn added a Python script that controls Wekinator with voice commands. Specifically, it can control starting/stopping running and recording DTW examples.
- - Max laser cut acrylic sheets for our hardware 
- - Shawn got the previous software working with the new LEGO hardware
+ - Max designed and laser cut acrylic sheets for our hardware. Further iterations of the hardware to avoid "pushing itself off the wall" have been made. Gears have been modified to activate both buttons with one motor.
+ - Shawn and Max received the BrickPi3 and set it up.
+ - Shawn got the previous software working with the new LEGO hardware (including Zerotier, VNC connection and GPIO activation)
